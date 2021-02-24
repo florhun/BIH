@@ -50,7 +50,8 @@ public class GameManager : MonoBehaviour
 
                 if(ballcount == 2)
                 {
-                    
+                    //Game finish.
+                    //Application.Quit();
                 }
 
                 break;
